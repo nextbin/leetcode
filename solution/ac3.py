@@ -6,6 +6,12 @@
 Notes:
     dict = {}
         字典结构
+        dict.get(object)
+            返回object对应的值或None
+        dict[key]=value
+            对字典赋key-value值
+    max(a,b)
+        返回较大值
 """
 
 class Solution(object):
